@@ -18,10 +18,11 @@ function Projects() {
       <h3>Professional Projects</h3>
       <ul>
         <li>
-          <strong>TCS BaNCS – IFFCO Tokio General Health Insurance</strong> – Java, Spring Boot, Jenkins, JBoss, MySQL
+          <strong>TCS BaNCS – Enterprise Health Insurance Project</strong> – Java, Spring , Jenkins, JBoss, PLSQL
           <br />Developed & profiled REST APIs, fixed backend issues, optimized database queries, configured JBoss, automated deployments via Jenkins, and provided 24×7 production support
         </li>
       </ul>
+
     </section>
   );
 }
